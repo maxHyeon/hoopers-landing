@@ -19,7 +19,7 @@ const Hero = () => (
       <header className="text-center">
         <h1 className="whitespace-pre-line text-5xl font-bold leading-hero text-gray-900 pb-6">
           {'The best solution for\n'}
-          <span className="text-primary-500">Basketball Club management</span>
+          <span className="text-primary-500">Basketball Club Management</span>
         </h1>
         <Link href="/">
           <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
