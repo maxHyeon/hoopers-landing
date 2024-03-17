@@ -7,10 +7,10 @@ const VerticalFeatures = () => (
     // description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus malesuada nisi tellus, non imperdiet nisi tempor at."
   >
     <VerticalFeatureRow
-      title="Your title here"
-      description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum, nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim."
-      image="/assets/images/feature.svg"
-      imageAlt="First feature alt text"
+      title="Convenient basketball club management"
+      description="Just enjoy basketball! We provide information management for club members, game information management, and management for attendance."
+      image="/assets/images/play-basketball.png"
+      imageAlt="playbasketball"
     />
   </Section>
 );
